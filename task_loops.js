@@ -5,7 +5,7 @@ let numberOfUser = +prompt("Enter your number, please!", "");
     alert("1");
   } else if (numberOfUser < 0) {
     alert("-1");
-  } else if (numberOfUser === 0) {
+  } else  {
     alert("0");
   }
 

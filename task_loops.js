@@ -31,4 +31,4 @@ switch(a) {
   case 3:
    alert("2, 3");
    break;
-	}
+}
